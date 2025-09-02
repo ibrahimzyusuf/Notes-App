@@ -1,4 +1,3 @@
-import React from 'react'
 import NoteForm from './NoteForm'
 import type { NoteData, Tag } from '../App'
 
